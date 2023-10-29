@@ -12,4 +12,4 @@ l键：加载存档；
 
 # 游戏效果图
 
-![](vx_images/242404020231520.png)
+![](https://github.com/AISoldierWYN/ConwayGame/blob/main/vx_images/242404020231520.png)
